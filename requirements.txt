@@ -1,0 +1,4 @@
+keyboard==0.13.5
+PyQt5==5.15.9
+pyqt5-tools==5.15.9.3.3
+pyqtdarktheme==2.1.0
