@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![Screenshot](https://github.com/t13ee/AICI-ItCoder/blob/main/AICI-ItCoder.png)
+![Screenshot](AICI-ItCoder.png)
 
 ## License
 
